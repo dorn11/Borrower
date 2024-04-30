@@ -1,0 +1,87 @@
+*{
+ padding: 0;
+ margin: 0;
+ font-family: sans-serif;
+ 
+}
+.warp{
+ width: 90%;
+ margin: auto;
+ display:flex;
+ padding: 10px;
+ 
+ 
+}
+.selection1{
+ border-radius: 1px solid black;
+}
+.content{
+  width: 70%;
+  
+  
+  
+  
+}
+.said{
+ 
+ width: 30%;
+ background: red;
+}
+h1 ,h3 {
+ text-align: center;
+ color: black;
+ 
+}
+
+.row{
+ padding: 10px;
+ margin: auto;
+ display: flex;
+
+}
+
+.title {
+ 
+ padding: 15px;
+ width: 50%;
+ background: darkblue;
+  
+}
+.title h3{
+ color: #fff;
+}
+.title1{
+  
+ width: 50%;
+ padding: 15px;
+ background: lightseagreen;
+}
+.selection2{
+  border: 1px solid black;
+  
+  width: 100%;
+}
+.tit{
+ color: black;
+ 
+ padding: 10px;
+ width: 100%;
+ text-align: center;
+}
+
+
+.card img{
+ width: 100%;
+ margin: auto;
+
+ margin-top:50px;
+}
+.box{
+ padding: 10px 20px;
+ width: 50%;
+ margin: auto;
+ display: flex;
+}
+.title_box h4{
+ text-align: center;
+}

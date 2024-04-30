@@ -1,0 +1,128 @@
+*{
+ padding: 0;
+ margin: 0;
+ font-family: sans-serif;
+ 
+}
+.warp{
+ width: 90%;
+ margin: auto;
+ display:flex;
+ padding: 10px;
+ 
+ 
+}
+.selection1{
+ width: 100%;
+}
+.content{
+  width: 70%;
+  
+  
+  
+  
+}
+.said{
+ 
+ width: 30%;
+ 
+}
+h1 ,h3 {
+ text-align: center;
+ color: #fff;
+ 
+}
+
+.row{
+ padding: 10px;
+ margin: auto;
+ display: flex;
+
+}
+
+.title{
+ 
+ padding: 15px;
+ width: 50%;
+ background: darkblue;
+  
+}
+.title1{
+  
+ width: 50%;
+ padding: 15px;
+ background: lightseagreen;
+}
+.selection1 {
+  border: 1px solid black;
+  
+  width: 10%;
+}
+.selection2{
+  border: 1px solid black;
+  background: greenyellow;
+  width: 100%;
+}
+.tit{
+ color: #fff;
+ 
+ padding: 10px;
+ width: 100%;
+ text-align: center;
+}
+
+
+.card img{
+ width: 100%;
+ 
+ margin: auto;
+
+ margin-top:50px;
+}
+.title1 img{
+ width: 100%;
+ margin: auto;
+}
+.box{
+ padding: 10px 20px;
+ width: 50%;
+ margin: auto;
+ display: flex;
+}
+.title_box h4{
+ text-align: center;
+}
+
+.imgs{
+ padding: 5px;
+ width: 100%;
+ display: flex;
+}
+.imgs img {
+ width: 35%;
+ height: 70px;
+ 
+}
+p{
+ padding: 5px;
+ text-align: center;
+}
+.top h1{
+ background: darkblue;
+ width: 100%;
+ border-radius: 10px 0px;
+}
+
+.foot{
+ width: 90%;
+ margin: auto;
+ background: red;
+ display: flex;
+}
+.foot img{
+ width: 70%;
+ 
+}
+.box{
+ display: block;
+}
